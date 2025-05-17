@@ -10,13 +10,6 @@ Este proyecto implementa una sencilla aplicación de escritorio en Java con una 
 * Muestra clara del resultado en la interfaz.
 * Código bien estructurado y comentado para facilitar la comprensión.
 
-## Cómo ejecutar:
-
-1.  Asegúrate de tener instalado el JDK (Java Development Kit) en tu sistema.
-2.  Clona este repositorio: `git clone https://github.com/cran/delma`
-3.  Compila el código fuente: `javac FactorialApp.java FactorialCalculator.java`
-4.  Ejecuta la aplicación: `java FactorialApp`
-
 ## Tecnologías utilizadas:
 
 * Java
